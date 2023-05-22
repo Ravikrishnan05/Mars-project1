@@ -1,0 +1,13 @@
+push button connects 2 point in circuit when we press
+
+In this circuit, Vcc is the power supply, R1 is the resistor, S1 is the pushbutton, and GND is ground. When the pushbutton is not pressed, the circuit is open and no current flows through the resistor. This means that the voltage across the resistor is equal to Vcc
+
+When the pushbutton is pressed, the circuit closes and current flows through the resistor. This causes the voltage across the resistor to drop. The amount of voltage drop is determined by the resistance of the resistor and the current flowing through it.
+
+potentiometer is conncected to ground and vcc
+
+push button is digital sensor it either generate either high(1) or low(0).
+
+potentiometer is analog sensor it generate output (from 0V-5V).
+
+The preprocessor is a program that is used to process the code before it is compiled.
