@@ -22,7 +22,7 @@ void loop()
   Serial.print(bdata);
   Serial.print("\n");
   
-  delay(2000);
+ // delay(2000);
   
   
 }
